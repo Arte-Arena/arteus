@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="900"
+   height="600"
+   version="1.1"
+   id="svg12"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <rect
+     width="900"
+     height="600"
+     fill="#FFFFFF"
+     id="rect2" />
+  <g
+     transform="translate(350.0 200.0) scale(0.4)"
+     id="g6">
+    <image
+       href="bicicleta.svg"
+       width="500"
+       height="500"
+       id="image4" />
+  </g>
+  <g
+     transform="translate(350.0 450.0)"
+     id="g10">
+    <text
+       x="0"
+       y="0"
+       font-size="60"
+       font-family="Arial, sans-serif"
+       text-anchor="middle"
+       fill="#000000"
+       font-weight="bold"
+       id="text8">CORINTHIANS</text>
+  </g>
+</svg>
